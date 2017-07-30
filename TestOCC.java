@@ -13,7 +13,7 @@ public class TestOCC {
 	public static void main(String[] args) throws Exception {
 		//merge_datasets();
 		//Input file name
-		String inputFile = "//home//shehroz//workspace//OCC//src//vision//resources//breast-cancer.arff";
+		String inputFile = "//path//to//file//filename.arff";
 
 		crossValidationOCC cv = new crossValidationOCC();
 		
