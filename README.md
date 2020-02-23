@@ -7,4 +7,4 @@ The code require the following JARS
 # Citation
 If you use this code in your research, please cite the following paper:
 
-**S. S. Khan and A. Ahmad, "Relationship between Variants of One-Class Nearest Neighbors and Creating Their Accurate Ensembles," in IEEE Transactions on Knowledge and Data Engineering, vol. 30, no. 9, pp. 1796-1809, 1 Sept. 2018.
+**S. S. Khan and A. Ahmad, "Relationship between Variants of One-Class Nearest Neighbors and Creating Their Accurate Ensembles," in IEEE Transactions on Knowledge and Data Engineering, vol. 30, no. 9, pp. 1796-1809, 1 Sept. 2018.**
